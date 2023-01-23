@@ -25,6 +25,6 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://oomeravcii-self-readme-stats-api.vercel.app/api?username=oomeravcii&show_icons=true&theme=dark&count_private=true" />
+    <img align="center" src="https://sculas-self-readme-stats-api.vercel.app/api?username=oomeravcii&show_icons=true&theme=dark&count_private=true" />
   </a>
 </p>
