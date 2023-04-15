@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="#">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+Ömer.;I+am+a+Jr+Software+Engineer+from+Turkey.;Proficient+in+Python.;Constantly+learning+new+skills."/>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+Ömer.;I+am+a+Software+Engineer+from+Turkey.;Constantly+learning+new+skills."/>
   </a>
   <br>
 </h1>
 
-<h4 align="center">I have professional experience in Python.</h4>
+<h4 align="center">Currently learning Python.</h4>
 
 <h4 align="center">I want to learn:</h4>
 
@@ -28,3 +28,5 @@
     <img align="center" src="https://sculas-self-readme-stats-api.vercel.app/api?username=oomeravcii&show_icons=true&theme=dark&count_private=true" />
   </a>
 </p>
+
+
