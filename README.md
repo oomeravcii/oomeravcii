@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+Ömer.;I+am+a+Software+Engineer+from+Turkey.;Constantly+learning+new+skills."/>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=448cff&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+Ömer.;I+am+a+Software+Engineer+from+Turkey.;Constantly+learning+new+skills."/>
   </a>
   <br>
 </h1>
