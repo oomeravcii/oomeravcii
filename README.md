@@ -5,20 +5,16 @@
   <br>
 </h1>
 
-<h4 align="center">Currently learning Python.</h4>
+<h4 align="center">Currently learning C#.</h4>
 
-<h4 align="center">I want to learn:</h4>
+<h4 align="center">Languages I Know:</h4>
 
 <p align="center">
-  Machine Learning
+  Python
   •
-  Java
+  HTML
   •
-  C#
-  •
-  Flutter
-  •
-  HTML/CSS/JS
+  CSS
 </p>
 
 <h1></h1><br>
