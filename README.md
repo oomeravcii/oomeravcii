@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">Currently learning C# & JavaScript.</h4>
+<h4 align="center">Currently learning Flutter, C# & JavaScript.</h4>
 
 <h4 align="center">Languages I Know:</h4>
 
